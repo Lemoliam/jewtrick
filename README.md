@@ -1,0 +1,2 @@
+# jewtrick
+python > man people
