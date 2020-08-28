@@ -1,2 +1,2 @@
 # jewtrick
-python > man people
+python > java, people
