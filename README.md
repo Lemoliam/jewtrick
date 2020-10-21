@@ -1,2 +1,2 @@
 # jewtrick
-python > java, people
+еврейский трюк, обход очереди, манимод
