@@ -11,7 +11,7 @@ while True:
         print('server status: ' + str(getData['status']))
         print('players online: ' + str(getData['players']['online']))
     except KeyError:
-        print(colored('error!', 'red') + ' couldn\'t get online from server')
+        print(colored('error!', 'red') + ' couldn\'t receive online from server')
         continue
 
     if not getData['status']:
@@ -28,4 +28,4 @@ while True:
 
 def antiHauseFix():
     pass
-    #todo: make a garbage collector
+    #todo: make a fake-online detector
